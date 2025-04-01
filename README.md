@@ -1,2 +1,2 @@
 # findnumber
-Um jogo que eu aprendi a fazer com o curso de introdução/lógica de programação da Alura
+Um jogo que eu aprendi a fazer com o curso de introdução/lógica de programação da Alura, esse é um joguinho bem simples onde o jogador precisa descobrir o número aleatório/secreto, foi desenvolvido com base nos conteúdos do curso da Alura: Lógica de programação: mergulhe em programação com JavaScript, com 2 instrutores ótimos, que não deixaram o curso se tornar massante, quero publicar para ser exatamente como o curso um jogo de browser. Mas por enquanto vou deixar ele aqui, se eu realmente publicar ele, eu preciso editar isso aqui.. skskksks.
